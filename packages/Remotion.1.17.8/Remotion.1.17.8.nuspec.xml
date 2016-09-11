@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Remotion</id>
+    <version>1.17.8</version>
+    <title>Remotion</title>
+    <authors>rubicon IT GmbH</authors>
+    <owners>rubicon IT GmbH</owners>
+    <licenseUrl>http://opensource.org/licenses/LGPL-2.1</licenseUrl>
+    <projectUrl>http://www.re-motion.org/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>General .NET classes and utilities.</description>
+    <summary />
+    <copyright>Copyright (c) rubicon IT GmbH, www.rubicon.eu - Licensed under GNU LGPL 2.1 (or later)</copyright>
+    <dependencies>
+      <dependency id="CommonServiceLocator" version="1.0.0" />
+      <dependency id="log4net" version="2.0.0" />
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,4 @@
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

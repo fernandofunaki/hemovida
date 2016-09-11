@@ -1,0 +1,4 @@
+C:\TCC\Project\Domain.HealthChecker\bin\Release\Domain.HealthChecker.dll
+C:\TCC\Project\Domain.HealthChecker\bin\Release\Domain.HealthChecker.pdb
+C:\TCC\Project\Domain.HealthChecker\obj\Release\Domain.HealthChecker.dll
+C:\TCC\Project\Domain.HealthChecker\obj\Release\Domain.HealthChecker.pdb

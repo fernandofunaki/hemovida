@@ -1,0 +1,4 @@
+C:\TCC\Project\HeartBeat.Core\bin\Release\HeartBeat.Core.dll
+C:\TCC\Project\HeartBeat.Core\bin\Release\HeartBeat.Core.pdb
+C:\TCC\Project\HeartBeat.Core\obj\Release\HeartBeat.Core.dll
+C:\TCC\Project\HeartBeat.Core\obj\Release\HeartBeat.Core.pdb

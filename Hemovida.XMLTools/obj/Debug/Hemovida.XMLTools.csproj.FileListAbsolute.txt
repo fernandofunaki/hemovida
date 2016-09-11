@@ -1,0 +1,5 @@
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.XMLTools\bin\Debug\Hemovida.XMLTools.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.XMLTools\bin\Debug\Hemovida.XMLTools.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.XMLTools\obj\Debug\Hemovida.XMLTools.csprojResolveAssemblyReference.cache
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.XMLTools\obj\Debug\Hemovida.XMLTools.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.XMLTools\obj\Debug\Hemovida.XMLTools.pdb

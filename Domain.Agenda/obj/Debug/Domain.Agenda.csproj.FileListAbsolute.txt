@@ -1,0 +1,7 @@
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Domain.Agenda\bin\Debug\Domain.Agenda.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Domain.Agenda\bin\Debug\Domain.Agenda.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Domain.Agenda\bin\Debug\WorkerProject.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Domain.Agenda\bin\Debug\WorkerProject.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Domain.Agenda\obj\Debug\Domain.Agenda.csprojResolveAssemblyReference.cache
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Domain.Agenda\obj\Debug\Domain.Agenda.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Domain.Agenda\obj\Debug\Domain.Agenda.pdb

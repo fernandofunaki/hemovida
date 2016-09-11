@@ -1,0 +1,7 @@
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.HealthChecker\bin\Debug\Hemovida.HealthChecker.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.HealthChecker\bin\Debug\Hemovida.HealthChecker.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.HealthChecker\bin\Debug\Domain.Core.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.HealthChecker\bin\Debug\Domain.Core.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.HealthChecker\obj\Debug\Hemovida.HealthChecker.csprojResolveAssemblyReference.cache
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.HealthChecker\obj\Debug\Hemovida.HealthChecker.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.HealthChecker\obj\Debug\Hemovida.HealthChecker.pdb

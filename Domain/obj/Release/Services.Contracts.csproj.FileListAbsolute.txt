@@ -1,0 +1,13 @@
+C:\TCC\Project\Domain\bin\Release\Domain.dll
+C:\TCC\Project\Domain\bin\Release\Domain.pdb
+C:\TCC\Project\Domain\bin\Release\Domain.Core.dll
+C:\TCC\Project\Domain\bin\Release\WorkerProject.dll
+C:\TCC\Project\Domain\bin\Release\HeartBeat.Core.dll
+C:\TCC\Project\Domain\bin\Release\Domain.HealthChecker.dll
+C:\TCC\Project\Domain\bin\Release\Domain.Core.pdb
+C:\TCC\Project\Domain\bin\Release\WorkerProject.pdb
+C:\TCC\Project\Domain\bin\Release\HeartBeat.Core.pdb
+C:\TCC\Project\Domain\bin\Release\Domain.HealthChecker.pdb
+C:\TCC\Project\Domain\obj\Release\Services.Contracts.csprojResolveAssemblyReference.cache
+C:\TCC\Project\Domain\obj\Release\Domain.dll
+C:\TCC\Project\Domain\obj\Release\Domain.pdb

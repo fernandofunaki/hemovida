@@ -1,0 +1,7 @@
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\WorkerProject\obj\Debug\Worker.Base.csprojResolveAssemblyReference.cache
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\WorkerProject\obj\Debug\WorkerProject.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\WorkerProject\obj\Debug\WorkerProject.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\WorkerProject\bin\Debug\WorkerProject.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\WorkerProject\bin\Debug\WorkerProject.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\WorkerProject\bin\Debug\Domain.Core.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\WorkerProject\bin\Debug\Domain.Core.pdb

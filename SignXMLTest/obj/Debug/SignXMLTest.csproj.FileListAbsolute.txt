@@ -1,0 +1,17 @@
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\SignXMLTest.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\SignXMLTest.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\Domain.Core.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\Hemovida.Security.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\Hemovida.XMLTools.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\WorkerProject.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\HeartBeat.Core.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\Domain.HealthChecker.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\Domain.Core.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\Hemovida.Security.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\Hemovida.XMLTools.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\WorkerProject.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\HeartBeat.Core.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\bin\Debug\Domain.HealthChecker.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\obj\Debug\SignXMLTest.csprojResolveAssemblyReference.cache
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\obj\Debug\SignXMLTest.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\SignXMLTest\obj\Debug\SignXMLTest.pdb

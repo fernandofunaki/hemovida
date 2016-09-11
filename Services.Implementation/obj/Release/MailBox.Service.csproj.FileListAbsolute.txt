@@ -1,0 +1,16 @@
+C:\TCC\Project\Services.Implementation\bin\Release\Services.Implementation.dll.config
+C:\TCC\Project\Services.Implementation\bin\Release\Services.Implementation.dll
+C:\TCC\Project\Services.Implementation\bin\Release\Services.Implementation.pdb
+C:\TCC\Project\Services.Implementation\bin\Release\Domain.Core.dll
+C:\TCC\Project\Services.Implementation\bin\Release\Domain.dll
+C:\TCC\Project\Services.Implementation\bin\Release\WorkerProject.dll
+C:\TCC\Project\Services.Implementation\bin\Release\HeartBeat.Core.dll
+C:\TCC\Project\Services.Implementation\bin\Release\Domain.HealthChecker.dll
+C:\TCC\Project\Services.Implementation\bin\Release\Domain.Core.pdb
+C:\TCC\Project\Services.Implementation\bin\Release\Domain.pdb
+C:\TCC\Project\Services.Implementation\bin\Release\WorkerProject.pdb
+C:\TCC\Project\Services.Implementation\bin\Release\HeartBeat.Core.pdb
+C:\TCC\Project\Services.Implementation\bin\Release\Domain.HealthChecker.pdb
+C:\TCC\Project\Services.Implementation\obj\Release\MailBox.Service.csprojResolveAssemblyReference.cache
+C:\TCC\Project\Services.Implementation\obj\Release\Services.Implementation.dll
+C:\TCC\Project\Services.Implementation\obj\Release\Services.Implementation.pdb

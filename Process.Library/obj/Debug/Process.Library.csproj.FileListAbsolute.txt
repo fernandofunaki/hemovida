@@ -1,0 +1,12 @@
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Process.Library\bin\Debug\Process.Library.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Process.Library\bin\Debug\Process.Library.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Process.Library\bin\Debug\WorkerProject.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Process.Library\bin\Debug\WorkerProject.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Process.Library\obj\Debug\Process.Library.csprojResolveAssemblyReference.cache
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Process.Library\obj\Debug\Process.Library.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Process.Library\obj\Debug\Process.Library.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Process.Library\bin\Debug\Domain.Core.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Process.Library\bin\Debug\Domain.Core.pdb
+C:\TCC\Project\Process.Library\obj\Debug\Process.Library.csprojResolveAssemblyReference.cache
+C:\TCC\Project\Process.Library\obj\Debug\Process.Library.dll
+C:\TCC\Project\Process.Library\obj\Debug\Process.Library.pdb

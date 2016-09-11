@@ -1,0 +1,4 @@
+C:\TCC\Project\Domain.Core\bin\Release\Domain.Core.dll
+C:\TCC\Project\Domain.Core\bin\Release\Domain.Core.pdb
+C:\TCC\Project\Domain.Core\obj\Release\Domain.Core.dll
+C:\TCC\Project\Domain.Core\obj\Release\Domain.Core.pdb

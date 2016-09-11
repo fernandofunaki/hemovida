@@ -1,0 +1,11 @@
+C:\TCC\Project\WorkerProject\bin\Release\WorkerProject.dll
+C:\TCC\Project\WorkerProject\bin\Release\WorkerProject.pdb
+C:\TCC\Project\WorkerProject\bin\Release\Domain.Core.dll
+C:\TCC\Project\WorkerProject\bin\Release\Domain.HealthChecker.dll
+C:\TCC\Project\WorkerProject\bin\Release\HeartBeat.Core.dll
+C:\TCC\Project\WorkerProject\bin\Release\Domain.Core.pdb
+C:\TCC\Project\WorkerProject\bin\Release\Domain.HealthChecker.pdb
+C:\TCC\Project\WorkerProject\bin\Release\HeartBeat.Core.pdb
+C:\TCC\Project\WorkerProject\obj\Release\Worker.Core.csprojResolveAssemblyReference.cache
+C:\TCC\Project\WorkerProject\obj\Release\WorkerProject.dll
+C:\TCC\Project\WorkerProject\obj\Release\WorkerProject.pdb

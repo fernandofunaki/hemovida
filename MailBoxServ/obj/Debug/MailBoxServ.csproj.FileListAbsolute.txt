@@ -1,0 +1,6 @@
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\MailBoxServ\bin\Debug\MailBoxServ.dll.config
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\MailBoxServ\bin\Debug\MailBoxServ.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\MailBoxServ\bin\Debug\MailBoxServ.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\MailBoxServ\obj\Debug\MailBoxServ.csprojResolveAssemblyReference.cache
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\MailBoxServ\obj\Debug\MailBoxServ.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\MailBoxServ\obj\Debug\MailBoxServ.pdb

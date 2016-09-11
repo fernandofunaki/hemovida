@@ -1,0 +1,10 @@
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Services.Implementation\obj\Debug\Services.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Services.Implementation\bin\Debug\Services.Implementation.dll.config
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Services.Implementation\bin\Debug\Services.Implementation.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Services.Implementation\bin\Debug\Services.Implementation.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Services.Implementation\bin\Debug\Domain.Core.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Services.Implementation\bin\Debug\Domain.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Services.Implementation\bin\Debug\Domain.Core.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Services.Implementation\bin\Debug\Domain.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Services.Implementation\obj\Debug\Services.Implementation.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Services.Implementation\obj\Debug\Services.Implementation.pdb

@@ -1,0 +1,4 @@
+C:\TCC\Project\Hemovida.Security\bin\Release\Hemovida.Security.dll
+C:\TCC\Project\Hemovida.Security\bin\Release\Hemovida.Security.pdb
+C:\TCC\Project\Hemovida.Security\obj\Release\Hemovida.Security.dll
+C:\TCC\Project\Hemovida.Security\obj\Release\Hemovida.Security.pdb

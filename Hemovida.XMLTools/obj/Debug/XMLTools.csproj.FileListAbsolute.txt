@@ -1,0 +1,16 @@
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.XMLTools\bin\Debug\Hemovida.XMLTools.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.XMLTools\bin\Debug\Hemovida.XMLTools.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.XMLTools\obj\Debug\Hemovida.XMLTools.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Hemovida.XMLTools\obj\Debug\Hemovida.XMLTools.pdb
+C:\TCC\Project\Hemovida.XMLTools\bin\Debug\Hemovida.XMLTools.dll
+C:\TCC\Project\Hemovida.XMLTools\bin\Debug\Hemovida.XMLTools.pdb
+C:\TCC\Project\Hemovida.XMLTools\obj\Debug\Hemovida.XMLTools.dll
+C:\TCC\Project\Hemovida.XMLTools\obj\Debug\Hemovida.XMLTools.pdb
+C:\TCC\Git\Hemovida.XMLTools\bin\Debug\Hemovida.XMLTools.dll
+C:\TCC\Git\Hemovida.XMLTools\bin\Debug\Hemovida.XMLTools.pdb
+C:\TCC\Git\Hemovida.XMLTools\obj\Debug\Hemovida.XMLTools.dll
+C:\TCC\Git\Hemovida.XMLTools\obj\Debug\Hemovida.XMLTools.pdb
+C:\TCC\Hemovida\Hemovida.XMLTools\bin\Debug\Hemovida.XMLTools.dll
+C:\TCC\Hemovida\Hemovida.XMLTools\bin\Debug\Hemovida.XMLTools.pdb
+C:\TCC\Hemovida\Hemovida.XMLTools\obj\Debug\Hemovida.XMLTools.dll
+C:\TCC\Hemovida\Hemovida.XMLTools\obj\Debug\Hemovida.XMLTools.pdb

@@ -1,0 +1,5 @@
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Domain.Core\bin\Debug\Domain.Core.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Domain.Core\bin\Debug\Domain.Core.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Domain.Core\obj\Debug\Core.Domain.csprojResolveAssemblyReference.cache
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Domain.Core\obj\Debug\Domain.Core.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Domain.Core\obj\Debug\Domain.Core.pdb

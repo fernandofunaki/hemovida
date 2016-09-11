@@ -1,0 +1,7 @@
+C:\TCC\Project\HeartBeat.Component\bin\Release\HeartBeat.Component.dll
+C:\TCC\Project\HeartBeat.Component\bin\Release\HeartBeat.Component.pdb
+C:\TCC\Project\HeartBeat.Component\bin\Release\HeartBeat.Core.dll
+C:\TCC\Project\HeartBeat.Component\bin\Release\HeartBeat.Core.pdb
+C:\TCC\Project\HeartBeat.Component\obj\Release\HeartBeat.Component.csprojResolveAssemblyReference.cache
+C:\TCC\Project\HeartBeat.Component\obj\Release\HeartBeat.Component.dll
+C:\TCC\Project\HeartBeat.Component\obj\Release\HeartBeat.Component.pdb

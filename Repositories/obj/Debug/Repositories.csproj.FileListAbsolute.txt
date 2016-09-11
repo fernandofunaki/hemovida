@@ -1,0 +1,15 @@
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\bin\Debug\Repositories.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\bin\Debug\Repositories.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\bin\Debug\Domain.Core.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\bin\Debug\Iesi.Collections.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\bin\Debug\NHibernate.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\bin\Debug\Domain.Core.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\bin\Debug\Iesi.Collections.xml
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\bin\Debug\NHibernate.xml
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\obj\Debug\Repositories.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\obj\Debug\Repositories.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\bin\Debug\FluentNHibernate.dll
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\bin\Debug\FluentNHibernate.pdb
+C:\Users\FD07484\Desktop\Funaki\Lab-Citi\Lab1\Repositories\bin\Debug\FluentNHibernate.xml

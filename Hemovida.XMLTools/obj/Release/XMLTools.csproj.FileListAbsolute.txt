@@ -1,0 +1,4 @@
+C:\TCC\Project\Hemovida.XMLTools\bin\Release\Hemovida.XMLTools.dll
+C:\TCC\Project\Hemovida.XMLTools\bin\Release\Hemovida.XMLTools.pdb
+C:\TCC\Project\Hemovida.XMLTools\obj\Release\Hemovida.XMLTools.dll
+C:\TCC\Project\Hemovida.XMLTools\obj\Release\Hemovida.XMLTools.pdb
