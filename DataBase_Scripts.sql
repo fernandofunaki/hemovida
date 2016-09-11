@@ -1,7 +1,7 @@
 ﻿USE [master]
 GO
 
-
+--Creates TCC database
 CREATE DATABASE [TCC]
 
 
