@@ -8,9 +8,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker.Core", "WorkerProject\Worker.Core.csproj", "{767983C6-274E-4EF2-8C38-597AC3EC33A6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DCF170C2-1D66-40A0-9345-2FE0E3E4ED1F}"
-	ProjectSection(SolutionItems) = preProject
-		Local.testsettings = Local.testsettings
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{1786E151-EE20-409C-8519-C8E664C64D21}"
 EndProject
