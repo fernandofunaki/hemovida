@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,IdleTime
+1473594167910,237,HTTP Request - GetLaboratorio,200,OK,TGAgendaService.GetLaboratorio 1-1,text,true,,651,1,1,237,0
+1473594176147,45,HTTP Request - GetLaboratorio,200,OK,TGAgendaService.GetLaboratorio 1-1,text,true,,651,1,1,45,0

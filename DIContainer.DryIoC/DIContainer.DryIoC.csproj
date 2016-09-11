@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B93BD5FD-6021-4BE2-859D-931CA2B4E78D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DIContainer.DryIoC</RootNamespace>
+    <AssemblyName>DIContainer.DryIoC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DryIoc, Version=2.6.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DryIoc.dll.2.6.2\lib\net45\DryIoc.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FluentNHibernate, Version=2.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.2.0.3.0\lib\net40\FluentNHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.0.4000\lib\net40\Iesi.Collections.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LinFu.DynamicProxy">
+      <HintPath>..\..\..\..\..\Downloads\NHibernate.ByteCode-master\NHibernate.ByteCode-master\src\NHibernate.ByteCode.LinFu\bin\Debug\LinFu.DynamicProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.4.0.4.4000\lib\net40\NHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NHibernate.ByteCode.Castle">
+      <HintPath>..\..\..\..\..\Downloads\NHibernate.ByteCode-master\NHibernate.ByteCode-master\src\NHibernate.ByteCode.Castle\bin\Debug\NHibernate.ByteCode.Castle.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.ByteCode.LinFu">
+      <HintPath>..\..\..\..\..\Downloads\NHibernate.ByteCode-master\NHibernate.ByteCode-master\src\NHibernate.ByteCode.LinFu\bin\Debug\NHibernate.ByteCode.LinFu.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DIContainer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Repository.NHibernate.csproj">
+      <Project>{42e11a39-2abe-4ac3-8e3d-723a9fa94c46}</Project>
+      <Name>Repository.NHibernate</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domain.Agenda\Worker.Agenda.csproj">
+      <Project>{fef688ad-4300-40d4-9215-af04ff6b129a}</Project>
+      <Name>Worker.Agenda</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domain.Core\Domain.Core.csproj">
+      <Project>{27512d90-8cad-4eab-9e1e-36cbbbf364a9}</Project>
+      <Name>Domain.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domain.HealthChecker\HealthChecker.Core.csproj">
+      <Project>{982fbcb5-fab6-4269-a525-02c298b72c7b}</Project>
+      <Name>HealthChecker.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domain\Services.Contracts.csproj">
+      <Project>{3dba5a34-c847-48b3-8950-9dd5142a20b3}</Project>
+      <Name>Services.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HeartBeat.Component\HeartBeat.Component.csproj">
+      <Project>{670b9ae7-6e01-4d99-89e3-cdfca31ccc94}</Project>
+      <Name>HeartBeat.Component</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HeartBeat.Core\HeartBeat.Core.csproj">
+      <Project>{45f87262-45ef-42fb-aae0-f229ae6cc574}</Project>
+      <Name>HeartBeat.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hemovida.HealthChecker\HealthChecker.Component.csproj">
+      <Project>{ecf813e7-3675-4998-ba32-f58d6ebf5394}</Project>
+      <Name>HealthChecker.Component</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hemovida.Security\Security.Component.csproj">
+      <Project>{46ecb0b4-bc6a-4b1f-8576-073c1a8d5e16}</Project>
+      <Name>Security.Component</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hemovida.XMLTools\XMLTools.csproj">
+      <Project>{cd512be3-a8bd-4478-9928-0e4f18586d58}</Project>
+      <Name>XMLTools</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Services.Implementation\MailBox.Service.csproj">
+      <Project>{0945945b-367f-4615-bff5-620797119548}</Project>
+      <Name>MailBox.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WorkerProject\Worker.Core.csproj">
+      <Project>{767983c6-274e-4ef2-8c38-597ac3ec33a6}</Project>
+      <Name>Worker.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
